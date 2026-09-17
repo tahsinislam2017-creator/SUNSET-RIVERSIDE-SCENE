@@ -60,6 +60,10 @@ g++ main.cpp -o SunsetRiverside.exe -lGL -lGLU -lglut -lwinmm -lgdi32
 ./SunsetRiverside.exe
 📝 Make sure backgroundmusic.wav sits next to the .exe file.
 
+**project file structure in your local
+[Sunsetriverscene](main folder)--> main.cbp , sunsetriver.cbp , sunsetriver.depend ,sunsetriver.layout , backgroundmusic. 
+
+
 🎮 Controls
 key-----------------------Function
 Space---------------------pause animation
