@@ -1,2 +1,2 @@
-# SUNSET-RIVERSIDE-SCENE
-A 2D animated graphics project built with C++ and OpenGL (GLUT) as part of an academic/personal graphics project. It depicts a peaceful sunset riverside landscape with animated clouds, birds, a boatman rowing, kids playing football, and people walking on a winding road — all accompanied by background music for an immersive experience.
+<img width="829" height="467" alt="GRAPHICS SS" src="https://github.com/user-attachments/assets/9ecae53d-7da6-409a-bc10-128ef7cdd770" />
+
