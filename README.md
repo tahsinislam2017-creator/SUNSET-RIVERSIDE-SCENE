@@ -46,7 +46,7 @@ Code::Blocks IDE (recommended)
 
 **Installation & Running
 1.Clone the repository
-git clone https://github.com/[your-username]/Sunset-Riverside-Scene.git
+git clone https://github.com/[tahsinislam2017]/Sunset-Riverside-Scene.git
 cd Sunset-Riverside-Scene
 
 2.Open in Code::Blocks
